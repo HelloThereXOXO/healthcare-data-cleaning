@@ -16,7 +16,7 @@
 
 ## Decisions Made
 - Dropped Hospital, Doctor columns and Room Number: Synthetically generated
-with ~40,000 unique random entries which gace no analytical value
+with ~40,000 unique random entries which gave no analytical value
 - Used ABS() on negative billing: treated as data entry errors
 
 ## Final Output
