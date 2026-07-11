@@ -2,7 +2,7 @@
 
 ## Dataset
 - Source: "Healthcare Dataset" from Kaggle (synthetic data, 55,500 rows)
-Can be seen in the healthcare_dataset_raw file
+  - Available in the `healthcare_dataset_raw` file.
 - Topic: Hospital patient records
 
 ## Issues Found
@@ -15,7 +15,7 @@ Can be seen in the healthcare_dataset_raw file
   Can be seen in the healthcare_dataset_cleaned file
 - SQL: created clean table, added Length of Stay (Days), dropped analytically 
   irrelevant columns, reordered columns logically
-  Can be seen in the healthcare_cleaning file
+   - Available in the healthcare_cleaning file
 
 ## Decisions Made
 - Dropped Hospital, Doctor columns and Room Number: Synthetically generated
